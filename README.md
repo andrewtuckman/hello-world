@@ -1,4 +1,4 @@
 # hello-world
 Starting new.
 
-Hopefully GitHub becomes very useful in the future.
+Hopefully GitHub can become very useful for me in the future.
